@@ -1,0 +1,2 @@
+href_XPATH = "//div[@class='Z26q7c UK95Uc jGGQ5e VGXe8' or @class='kvH3mc BToiNc UK95Uc' or @class='g' or @class='NJo7tc Z26q7c UK95Uc uUuwM jGGQ5e']//div[@class='yuRUbf']/a"
+header_XPATH =  "//div[@class='yuRUbf']//h3"
